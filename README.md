@@ -14,3 +14,5 @@ Code:
 - https://github.com/IAT-ExploringAI-2024/NLP-Week2-RAG
 - https://github.com/IAT-ExploringAI-2024/NLP-Week1 
 - https://github.com/IAT-ExploringAI-2024/NLP-with-RNN-and-LLMs 
+Set up GPU:
+- https://www.youtube.com/watch?v=SecZCMR-gvs 
